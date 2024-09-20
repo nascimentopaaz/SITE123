@@ -1,0 +1,36 @@
+body {
+    color: rgb(12, 11, 11);
+    background: rgb(194, 93, 93);
+}
+
+header{
+    border-bottom: solid 2px rgb(207, 109, 109);
+    padding: 20px;
+    font-size: 32px;
+    color:black;
+}
+    
+h1 {
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.chamada{
+    background: rgb(189, 129, 129); 
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display:flex ;
+    justify-content: center;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
+    
+
+
